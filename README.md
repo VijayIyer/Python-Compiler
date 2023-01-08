@@ -3,4 +3,4 @@ Compiler implementation as part of course CSCI-P523 at Indiana University
 
 - Contains only the compiler.py file which had the code for the various stages in the compilation process
 - Remaining Dependent files were implemented by instructor as part of the course.
-- Code based on Essentials of Compilation.pdf
+- Code based on book Essentials of Compilation
